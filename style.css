@@ -1,0 +1,30 @@
+.container{
+    max-width: 600px;
+    margin: 0 auto;
+    margin-top: 50px;
+    text-align: center;
+    }
+    
+    
+    
+    hr{
+    width: 100px;
+    height: 2px;
+    background-color: aqua;
+    margin-bottom: 50px;
+    margin-top: 10px;
+    
+    }
+    
+    img.logo{
+        float: left;
+        padding-top: 0rem;
+        padding-left: 0rem;
+        width: 25%;
+        height: 160px;
+        background-color: aquamarine;
+        border-radius: 10%;
+        overflow: hidden;
+        margin-bottom: auto;
+    }
+    
